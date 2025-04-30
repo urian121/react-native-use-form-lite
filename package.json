@@ -1,5 +1,5 @@
 {
-  "name": "use-form-react-native",
+  "name": "react-native-use-form-lite",
   "version": "1.1.0",
   "description": "Un hook personalizado y ligero para gestionar formularios en React Native de manera sencilla y eficiente. Facilita la captura y manejo de datos en formularios sin complicaciones, optimizando el proceso de integración y mejora la legibilidad del código.",
   "main": "dist/index.js",
@@ -42,13 +42,13 @@
     "url": "https://github.com/urian121/nextjs-toast-notify/issues",
     "email": "urianwebdeveloper@gmail.com"
   },
-  "homepage": "https://github.com/urian121/use-form-react-native",
+  "homepage": "https://github.com/urian121/react-native-use-form-lite",
   "repository": {
     "type": "git",
-    "url": "https://github.com/urian121/use-form-react-native"
+    "url": "https://github.com/urian121/react-native-use-form-lite"
   },
   "seo": {
-    "title": "use-form-react-native - Hook para formularios en React Native",
+    "title": "react-native-use-form-lite - Hook para formularios en React Native",
     "description": "Hook personalizable y eficiente para gestionar formularios en React Native. Ideal para simplificar la manipulación de datos y mejorar la legibilidad del código.",
     "keywords": [
       "react-native",
@@ -57,6 +57,6 @@
       "useForm",
       "gestión de formularios"
     ],
-    "canonical": "https://www.npmjs.com/package/use-form-react-native"
+    "canonical": "https://www.npmjs.com/package/react-native-use-form-lite"
   }
 }

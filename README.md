@@ -1,11 +1,11 @@
-# use-form-react-native
+# react-native-use-form-lite
 
 Un **Custom Hook** simple, liviano y flexible para manejar formularios en **React Native** de forma rápida y sencilla.
 
 
-## 🌍 ¿Qué es `use-form-react-native`?
+## 🌍 ¿Qué es `react-native-use-form-lite`?
 
-`use-form-react-native` es un pequeño hook (`useForm`) que facilita la captura y manejo de datos en formularios de **React Native**, eliminando la necesidad de escribir manualmente funciones de `onChangeText`, `onValueChange`, etc., para cada campo.
+`react-native-use-form-lite` es un pequeño hook (`useForm`) que facilita la captura y manejo de datos en formularios de **React Native**, eliminando la necesidad de escribir manualmente funciones de `onChangeText`, `onValueChange`, etc., para cada campo.
 
 Ideal para proyectos que necesitan formularios dinámicos sin complicaciones.
 
@@ -21,7 +21,7 @@ Ideal para proyectos que necesitan formularios dinámicos sin complicaciones.
 ## 📦 Instalación
 
 ```bash
-npm install use-form-react-native
+npm install react-native-use-form-lite
 ```
 
 
@@ -29,7 +29,7 @@ npm install use-form-react-native
 
 ```tsx
 import { StyleSheet, View, TextInput, Switch, Button } from 'react-native';
-import { useForm } from 'use-form-react-native';
+import { useForm } from 'react-native-use-form-lite';
 // Nota: Para usar el componente Picker, debes instalar el paquete '@react-native-picker/picker' 
 // npm install @react-native-picker/picker
 import { Picker } from '@react-native-picker/picker';

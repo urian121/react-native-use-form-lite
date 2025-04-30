@@ -1,0 +1,62 @@
+{
+  "name": "use-form-react-native",
+  "version": "1.1.0",
+  "description": "Un hook personalizado y ligero para gestionar formularios en React Native de manera sencilla y eficiente. Facilita la captura y manejo de datos en formularios sin complicaciones, optimizando el proceso de integración y mejora la legibilidad del código.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.64.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "form",
+    "hook",
+    "useForm",
+    "form-handling",
+    "react-native-forms",
+    "useForm-hook",
+    "form-state"
+  ],
+  "author": {
+    "name": "Urian Viera",
+    "email": "urianwebdeveloper@gmail.com",
+    "url": "https://www.urianviera.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urian121/nextjs-toast-notify/issues",
+    "email": "urianwebdeveloper@gmail.com"
+  },
+  "homepage": "https://github.com/urian121/use-form-react-native",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urian121/use-form-react-native"
+  },
+  "seo": {
+    "title": "use-form-react-native - Hook para formularios en React Native",
+    "description": "Hook personalizable y eficiente para gestionar formularios en React Native. Ideal para simplificar la manipulación de datos y mejorar la legibilidad del código.",
+    "keywords": [
+      "react-native",
+      "formulario",
+      "hook",
+      "useForm",
+      "gestión de formularios"
+    ],
+    "canonical": "https://www.npmjs.com/package/use-form-react-native"
+  }
+}

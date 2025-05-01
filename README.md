@@ -1,5 +1,9 @@
 # react-native-use-form-lite
 
+[![npm version](https://img.shields.io/npm/v/react-native-use-form-lite.svg?style=flat-square)](https://www.npmjs.com/package/react-native-use-form-lite)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-repository-blue?style=flat-square&logo=github)](https://github.com/urian121/react-native-use-form-lite)
+[![npm](https://img.shields.io/npm/dt/react-native-use-form-lite.svg)](https://www.npmjs.com/package/react-native-use-form-lite)
+
 Un **Custom Hook** simple, liviano y flexible para manejar formularios en **React Native** de forma rápida y sencilla.
 
 
@@ -149,9 +153,26 @@ Dependiendo del tipo de campo que declares, `register` conecta automáticamente 
 - Proyectos que buscan una solución minimalista para formularios sin instalar librerías pesadas.
 
 
-## 👨‍💻 Autor
-Desarrollado y mantenido por **Urian Viera**.
+## 👨‍💻 Desarrollador
+
+**Urian Viera**  
+🌐 [urianviera.com](https://www.urianviera.com)  
+📺 [YouTube](https://www.youtube.com/WebDeveloperUrianViera)  
+💌 [urian1213viera@gmail.com](mailto:urian1213viera@gmail.com)  
+☕ [¡Apóyame en PayPal!](https://www.paypal.com/donate/?hosted_button_id=4SV78MQJJH3VE)
+
+## Copyright
+
+© 2025 Urian Viera. Todos los derechos reservados.
+
 
 ## 📜 Licencia
 
 Distribuido bajo la licencia **MIT**.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-urian121/react--native--use--form--lite-000?logo=github&style=flat-square)](https://github.com/urian121/react-native-use-form-lite)
+
+
+## Agradecimientos
+
+¡Gracias a todos los **Devs** 👨‍💻 que han utilizado y contribuido al desarrollo de **react-native-use-form-lite**! Su apoyo y retroalimentación son fundamentales para mejorar continuamente este paquete.

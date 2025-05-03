@@ -1,6 +1,6 @@
 {
   "name": "react-native-use-form-lite",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Un hook personalizado y ligero para gestionar formularios en React Native de manera sencilla y eficiente. Facilita la captura y manejo de datos en formularios sin complicaciones, optimizando el proceso de integración y mejora la legibilidad del código.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

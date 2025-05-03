@@ -6,10 +6,8 @@
 
 Un **Custom Hook** moderno, intuitivo, liviano y flexible para manejar formularios en **React Native** de forma rápida y sencilla.
 
+![Vista previa](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/react-native-use-form-lite-2.png)
 
-<img src="https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/react-native-use-form-lite-2.png" alt="Formulario" style="width: 80%; height: auto;">
-
-<br />
 <a href="https://snack.expo.dev/b7beF8lDI4xyhmbm2sB76"> 🚀 Demo </a>
 
 

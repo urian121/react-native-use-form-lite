@@ -4,7 +4,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-repository-blue?style=flat-square&logo=github)](https://github.com/urian121/react-native-use-form-lite)
 [![npm](https://img.shields.io/npm/dt/react-native-use-form-lite.svg)](https://www.npmjs.com/package/react-native-use-form-lite)
 
-Un **Custom Hook** moderno, intuitivo, liviano y flexible para manejar formularios en **React Native** de forma rápida y sencilla.
+Es una librería moderna, intuitiva, liviana, escalable y sobre todo flexible para manejar formularios en **React Native** de forma rápida y sencilla.
 
 ![Vista previa](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/react-native-use-form-lite-2.png)
 
@@ -13,7 +13,7 @@ Un **Custom Hook** moderno, intuitivo, liviano y flexible para manejar formulari
 
 ## 🌍 ¿Qué es `react-native-use-form-lite`?
 
-`react-native-use-form-lite` es un pequeño hook (`useFormLite`) que facilita la captura y manejo de datos en formularios de **React Native**, eliminando la necesidad de escribir manualmente funciones de `onChangeText`, `onValueChange`, etc., para cada campo.
+`react-native-use-form-lite` es una librería de React Native que proporciona un pequeño hook (`useFormLite`) que facilita la captura y manejo de datos en formularios de **React Native**, eliminando la necesidad de escribir manualmente funciones de `onChangeText`, `onValueChange`, etc., para cada campo.
 
 Ideal para proyectos que necesitan formularios dinámicos sin complicaciones.
 
